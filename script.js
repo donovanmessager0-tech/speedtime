@@ -1,3 +1,3 @@
 const btnstart = document.querySelector("#btn-start");
 
-btnstart.addEventListener("click", () => console.log("Click button start"));
+btnstart.addEventListener('click', () => console.log('click'));
