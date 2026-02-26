@@ -1,6 +1,6 @@
 const duration = document.querySelector("#duration");
 
-duration.addEventListener('inputs', () => console.log('input'));
+duration.addEventListener('input', () => console.log('input'));
 
 
 const btnstart = document.querySelector("#btn-start");
